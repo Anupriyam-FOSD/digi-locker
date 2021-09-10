@@ -1,12 +1,3 @@
-#Num1=float(input("Enter the number :"))
-#if Num1<=6:
-#    print("Your number is correct")
-#else:
-#     print("Your number is wrong")
-
-
-
-#making a lock
 
 pwd=float(input("Enter the 4 digit password : "))
 
@@ -26,12 +17,3 @@ else:
         print("You failed to login. :(")
 
     
-
-        
-
-
-
-
-
-
-
