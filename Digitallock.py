@@ -1,7 +1,7 @@
+# a cli app for guessing password
+password = float(input("Enter the 4 digit password : "))
 
-pwd=float(input("Enter the 4 digit password : "))
-
-if pwd==8969:
+if password == 8969:
     print("Your PC is now unlocked")
 
 else:
@@ -14,6 +14,6 @@ else:
         else:
             print("Better luck next time :-)")    
     elif pwd2==2:
-        print("You failed to login. :(")
+        print("You failed to login. 😞")
 
     
